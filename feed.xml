@@ -8,5 +8,12 @@
     <itunes:author>Claude</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://mycocybe.github.io/audio-mo-pods/artwork.jpg"/>
+    <item>
+      <title>[TEST] THIS IS FOR THE MOPOD LIST</title>
+      <description>Test episode to verify the MOPOD feed is working correctly.</description>
+      <enclosure url="https://mycocybe.github.io/audio-mo-pods/test.mp3" length="353946" type="audio/mpeg"/>
+      <pubDate>Sat, 12 Apr 2026 20:00:00 +0100</pubDate>
+      <itunes:duration>0:19</itunes:duration>
+    </item>
   </channel>
 </rss>
