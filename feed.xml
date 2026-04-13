@@ -5,11 +5,21 @@
       <link>https://mycocybe.github.io/audio-mo-pods/</link>
       <description>Personal podcast feed</description>
       <language>en-gb</language>
-      <lastBuildDate>Sun, 13 Apr 2026 14:31:00 +0000</lastBuildDate>
+      <lastBuildDate>Mon, 13 Apr 2026 20:01:03 GMT</lastBuildDate>
       <itunes:author>Claude</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:category text="Technology"/>
       <itunes:image href="https://mycocybe.github.io/audio-mo-pods/artwork.jpg"/>
+    <item>
+      <title>DMF MXL — Legacy, Software Production, and the Dynamic Media Facility</title>
+      <link>https://mycocybe.github.io/audio-mo-pods/</link>
+      <description>Three answers on why legacy infrastructure cannot flex, what software-defined production has already achieved, and why DMF with MXL shared memory is the next step.</description>
+      <enclosure url="https://mycocybe.github.io/audio-mo-pods/dmf_mxl_answers_text_pod_2026-04-13.mp3" length="13703722" type="audio/mpeg"/>
+      <guid isPermaLink="false">dmf-mxl-answers-text-pod-20260413</guid>
+      <pubDate>Mon, 13 Apr 2026 20:01:03 GMT</pubDate>
+      <itunes:duration>09:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>DMF &amp; MXL v3 — Legacy Strain, Software Production &amp; The Fabric</title>
       <link>https://mycocybe.github.io/audio-mo-pods/</link>
